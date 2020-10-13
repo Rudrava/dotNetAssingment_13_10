@@ -1,0 +1,12 @@
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\bin\Debug\dotNetAssingment_13_10.exe.config
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\bin\Debug\dotNetAssingment_13_10.exe
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\bin\Debug\dotNetAssingment_13_10.pdb
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\bin\Debug\dotNetAssingment_13_10.xml
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.vbprojAssemblyReference.cache
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.Form1.resources
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.Resources.resources
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.vbproj.GenerateResource.cache
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.vbproj.CoreCompileInputs.cache
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.exe
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.xml
+Z:\college\sem3\dotNet\RESOURCES\assingments\dotNetAssingment_13_10\obj\Debug\dotNetAssingment_13_10.pdb
